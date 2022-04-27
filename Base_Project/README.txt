@@ -62,54 +62,5 @@ are that (1) my algorithm for finding the max moves when not given one is not so
 of an algorithm as it is an arbitrary number and (2) it's slow. I really just did that
 to put a cap on how long the program can take at a maximum. 
 
-APPROXIMATE TIMES:
-All were done using -all_solutions
-
-puzzle1.txt
-real    0m0.047s
-user    0m0.031s
-sys     0m0.016s
-
-puzzle2.txt
-real    0m0.087s
-user    0m0.078s
-sys     0m0.016s
-
-puzzle3.txt
-real    0m56.419s
-user    0m56.406s
-sys     0m0.000s
-
-puzzle4.txt
-real    0m0.008s
-user    0m0.000s
-sys     0m0.000s
-
-puzzle5.txt
-real    0m0.010s
-user    0m0.000s
-sys     0m0.016s
-
-puzzle6.txt
-real    0m1.633s
-user    0m1.625s
-sys     0m0.000s
-
-puzzle7.txt
-real    0m6.603s
-user    0m6.594s
-sys     0m0.016s
-
-puzzle8.txt - I know this one is slow
-real    6m13.005s
-user    6m13.000s
-sys     0m0.000s
-
-MISC. COMMENTS TO GRADER:  
-I know my code is not efficient, but it works!!!
-I would hope that counts for something at least.
-The example given in lecture was far less complex as this one, and now
-that I understand recursion better I realize that I should have structured
-this homework differently.
 
 
